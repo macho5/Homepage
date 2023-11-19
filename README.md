@@ -1,2 +1,2 @@
 My homepage: machoshi.netlify.app \
-Come and visit! 
+Come and visit it! 
